@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1712" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1712" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+      <class name="com.qa.api.Gorest.tests.CreateUserPostTest">
+        <test-method status="PASS" signature="createUserAPIPostTest()[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@51e5fc98]" name="createUserAPIPostTest" duration-ms="1694" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPostTest -->
+      </class> <!-- com.qa.api.Gorest.tests.CreateUserPostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
