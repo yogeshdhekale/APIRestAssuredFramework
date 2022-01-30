@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1712" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+  <suite name="Default suite" duration-ms="1593" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1712" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+    <test name="Default test" duration-ms="1593" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
       <class name="com.qa.api.Gorest.tests.CreateUserPostTest">
-        <test-method status="PASS" signature="createUserAPIPostTest()[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@51e5fc98]" name="createUserAPIPostTest" duration-ms="1694" started-at="2022-01-26T17:02:16Z" finished-at="2022-01-26T17:02:18Z">
+        <test-method status="PASS" signature="createUserAPIPostTest()[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@51e5fc98]" name="createUserAPIPostTest" duration-ms="1576" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUserAPIPostTest -->
