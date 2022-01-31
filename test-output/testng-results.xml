@@ -1,16 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1593" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
+  <suite name="Default suite" duration-ms="8624" started-at="2022-01-30T08:44:21Z" finished-at="2022-01-30T08:44:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1593" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
+    <test name="Default test" duration-ms="8624" started-at="2022-01-30T08:44:21Z" finished-at="2022-01-30T08:44:30Z">
       <class name="com.qa.api.Gorest.tests.CreateUserPostTest">
-        <test-method status="PASS" signature="createUserAPIPostTest()[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@51e5fc98]" name="createUserAPIPostTest" duration-ms="1576" started-at="2022-01-30T05:04:54Z" finished-at="2022-01-30T05:04:55Z">
+        <test-method status="PASS" signature="createUserExcelAPIPostTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@4b5a5ed1]" name="createUserExcelAPIPostTest" duration-ms="2782" started-at="2022-01-30T08:44:22Z" data-provider="getUserData" finished-at="2022-01-30T08:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dron Singh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dron.singh@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUserAPIPostTest -->
+        </test-method> <!-- createUserExcelAPIPostTest -->
+        <test-method status="PASS" signature="createUserExcelAPIPostTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@4b5a5ed1]" name="createUserExcelAPIPostTest" duration-ms="1349" started-at="2022-01-30T08:44:24Z" data-provider="getUserData" finished-at="2022-01-30T08:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kalinda Mishra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kalinda.mishra1@hotmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserExcelAPIPostTest -->
+        <test-method status="PASS" signature="createUserExcelAPIPostTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@4b5a5ed1]" name="createUserExcelAPIPostTest" duration-ms="1288" started-at="2022-01-30T08:44:26Z" data-provider="getUserData" finished-at="2022-01-30T08:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhagvan Joshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhagvan.joshi123@outlook.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserExcelAPIPostTest -->
+        <test-method status="PASS" signature="createUserExcelAPIPostTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@4b5a5ed1]" name="createUserExcelAPIPostTest" duration-ms="1435" started-at="2022-01-30T08:44:27Z" data-provider="getUserData" finished-at="2022-01-30T08:44:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhavana Arora]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhavana.Arora@yahoomail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserExcelAPIPostTest -->
+        <test-method status="PASS" signature="createUserExcelAPIPostTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.Gorest.tests.CreateUserPostTest@4b5a5ed1]" name="createUserExcelAPIPostTest" duration-ms="1351" started-at="2022-01-30T08:44:28Z" data-provider="getUserData" finished-at="2022-01-30T08:44:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krishna Das]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Krishna.das@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserExcelAPIPostTest -->
       </class> <!-- com.qa.api.Gorest.tests.CreateUserPostTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
